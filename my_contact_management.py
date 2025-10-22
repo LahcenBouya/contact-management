@@ -1,10 +1,8 @@
 #in this we had just one problem is the phone number if we store it in case of int
 #! the start zero is not count (001) = 1
 #in case of string 
-#? we need the number in case of int becasue str is uselessin this project 
-#@using isdigit() method => str.isdigit()✔
-#!tommorow tasks using isdigit to fix the first problem and learn nesting in dict
-#@using the nesting to solve the secand problem✔
+#? we need the number in case of int becasue str is useless in this project 
+
 contacts = {}
 
 
@@ -72,4 +70,5 @@ while True:
 
     #invalid
     else:
+
         print("invalid choice!")
